@@ -1,0 +1,4 @@
+gtts
+speech_recognition
+numpy
+tkinter
